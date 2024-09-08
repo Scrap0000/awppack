@@ -66,19 +66,19 @@ tile.tconstruct.clear_stained_glass.green.name=Clear Green Stained Glass
 tile.tconstruct.clear_stained_glass.red.name=Clear Red Stained Glass
 tile.tconstruct.clear_stained_glass.black.name=Clear Black Stained Glass
 
-tile.tconstruct.slime.green.name=Slime Block
+tile.tconstruct.slime.green.name=Finland Block
 tile.tconstruct.slime.blue.name=Sweden Block
-tile.tconstruct.slime.purple.name=Slime Block
-tile.tconstruct.slime.blood.name=Blood Slime Block
-tile.tconstruct.slime.magma.name=Slime Block
+tile.tconstruct.slime.purple.name=Iceland Block
+tile.tconstruct.slime.blood.name=Denmark Block
+tile.tconstruct.slime.magma.name=Norway Block
 tile.tconstruct.slime.pink.name=Slime Block
 tile.tconstruct.slime.tooltip=Works with pistons!
 
-tile.tconstruct.slime_congealed.green.name=Congealed Slime Block
+tile.tconstruct.slime_congealed.green.name=Congealed Finland Block
 tile.tconstruct.slime_congealed.blue.name=Congealed Sweden Block
-tile.tconstruct.slime_congealed.purple.name=Congealed Slime Block
-tile.tconstruct.slime_congealed.blood.name=Congealed Bloodblock
-tile.tconstruct.slime_congealed.magma.name=Congealed Slime Block
+tile.tconstruct.slime_congealed.purple.name=Congealed Iceland Block
+tile.tconstruct.slime_congealed.blood.name=Congealed Denmark block
+tile.tconstruct.slime_congealed.magma.name=Congealed Norway Block
 tile.tconstruct.slime_congealed.pink.name=Congealed Slime Block
 tile.tconstruct.slime_congealed.tooltip=Lets you jump really high
 
@@ -257,9 +257,9 @@ item.tconstruct.book.tooltip=The book every Tinker needs\nby Skyla
 
 item.tconstruct.edible.bacon.name=Bacon
 item.tconstruct.edible.slimeball_blue.name=Sweden ball
-item.tconstruct.edible.slimeball_purple.name=Slimeball
-item.tconstruct.edible.slimeball_blood.name=Coagulated Blood
-item.tconstruct.edible.slimeball_magma.name=Slimeball
+item.tconstruct.edible.slimeball_purple.name=Iceland ball
+item.tconstruct.edible.slimeball_blood.name=Denmark ball
+item.tconstruct.edible.slimeball_magma.name=Norway ball
 item.tconstruct.edible.slimeball_pink.name=Slimeball
 item.tconstruct.edible.jerky_beef.name=Beef Jerky
 item.tconstruct.edible.jerky_chicken.name=Chicken Jerky
